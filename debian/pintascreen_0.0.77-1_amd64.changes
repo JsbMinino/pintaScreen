@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Sun, 22 Dec 2019 12:00:00 +0000
+Source: pintascreen
+Binary: pintascreen
+Architecture: source all
+Version: 0.0.77-1
+Distribution: unstable
+Urgency: low
+Maintainer: Julio Sanchez Berro <jusabejusabe@gmail.com>
+Changed-By: Julio Sanchez Berro <jusabejusabe@gmail.com>
+Description:
+ pintascreen - Pinta, señala, marca, escribe en la pantalla para mejorar tus e..
+Changes:
+ pintascreen (0.0.77-1) unstable; urgency=low
+ .
+   * compilado en gambas3.12.2
+Checksums-Sha1:
+ 34f3e14d5d5f2e00fa6d004649bcbd9a24a69be1 1433 pintascreen_0.0.77-1.dsc
+ a1385428fb2fcc3f0914a29c34b711b9b4ef7f30 3379 pintascreen_0.0.77-1.diff.gz
+ 0b71b983ac709a56a47520848898d77400e0d0fa 603360 pintascreen_0.0.77-1_all.deb
+ 07db8647ffa21b45ab99507cefcee54081e120af 10091 pintascreen_0.0.77-1_amd64.buildinfo
+Checksums-Sha256:
+ bb235f6d7cfb437a87082bda4289589a0db8910480d822ad2bd9fef9e66eae9e 1433 pintascreen_0.0.77-1.dsc
+ 0b00d581672b717183e26a544656c2508c7a8d6e0dd733211334d21ac96d7506 3379 pintascreen_0.0.77-1.diff.gz
+ eb83a5f34122c4559385e49d4b3bcf85515d006f0b5c6533e331485c5541612a 603360 pintascreen_0.0.77-1_all.deb
+ 61cfaa4e783fd823a80b8eecb84877419c83e49b4388388c5a96a9966473d43a 10091 pintascreen_0.0.77-1_amd64.buildinfo
+Files:
+ 75fc7a7e09329830ad3f95869b6bbd90 1433 contrib/education optional pintascreen_0.0.77-1.dsc
+ 9420dfdef2eb7acf55e8663f7ff95ecb 3379 contrib/education optional pintascreen_0.0.77-1.diff.gz
+ e30cd1ac7ef3aaf52eade0fa501f7caa 603360 contrib/education optional pintascreen_0.0.77-1_all.deb
+ fb90610e967f64ea0f2095c177b15ef4 10091 contrib/education optional pintascreen_0.0.77-1_amd64.buildinfo

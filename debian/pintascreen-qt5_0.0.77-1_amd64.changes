@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Sun, 22 Dec 2019 12:00:00 +0000
+Source: pintascreen-qt5
+Binary: pintascreen-qt5
+Architecture: source all
+Version: 0.0.77-1
+Distribution: unstable
+Urgency: low
+Maintainer: Julio Sanchez Berro <jusabejusabe@gmail.com>
+Changed-By: Julio Sanchez Berro <jusabejusabe@gmail.com>
+Description:
+ pintascreen-qt5 - qt5 package for pintaScreen
+Changes:
+ pintascreen-qt5 (0.0.77-1) unstable; urgency=low
+ .
+   * compilado en gambas3.12.2
+Checksums-Sha1:
+ 24ea6ef633424a462ead651ab25bc70cabe887b9 575 pintascreen-qt5_0.0.77-1.dsc
+ cacf53674e34bcbee1dc8b52cb785d2e65fada66 2760 pintascreen-qt5_0.0.77-1.tar.gz
+ 2c9e3f173a8e6084dc670110ef8b51ae6c96a205 3268 pintascreen-qt5_0.0.77-1_all.deb
+ fa90b6b45d6348b4da834552165f0e61ce56ec83 4546 pintascreen-qt5_0.0.77-1_amd64.buildinfo
+Checksums-Sha256:
+ 8dfd53f3f0c302062bbc2223fc2fe3763cd3d7d951c131d7d08a4bb6f8e0504c 575 pintascreen-qt5_0.0.77-1.dsc
+ 2493a642ce2b29b17735e8020889a8b8844599eb8a94ce4929c320db3246b781 2760 pintascreen-qt5_0.0.77-1.tar.gz
+ 39c8c44b2a2330c0994313d411ebecbc24360ee23d169ff28f0eb924f1df46a9 3268 pintascreen-qt5_0.0.77-1_all.deb
+ 511fb2d52ef19f1aba2b267a5dd1343805068da3b8e83a8f3ba95bf6ad06dc63 4546 pintascreen-qt5_0.0.77-1_amd64.buildinfo
+Files:
+ 5a1c35c925354a90f33daf2b982a6b8c 575 contrib/education optional pintascreen-qt5_0.0.77-1.dsc
+ 3e2743fb6f7491620023ff3c663c2d1d 2760 contrib/education optional pintascreen-qt5_0.0.77-1.tar.gz
+ 9a2547a3805c16c0bec2a05425e577a5 3268 contrib/education optional pintascreen-qt5_0.0.77-1_all.deb
+ 944f103c4a53fc719dadcac65aa43181 4546 contrib/education optional pintascreen-qt5_0.0.77-1_amd64.buildinfo

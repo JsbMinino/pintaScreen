@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Sun, 22 Dec 2019 12:00:00 +0000
+Source: pintascreen-qt4
+Binary: pintascreen-qt4
+Architecture: source all
+Version: 0.0.77-1
+Distribution: unstable
+Urgency: low
+Maintainer: Julio Sanchez Berro <jusabejusabe@gmail.com>
+Changed-By: Julio Sanchez Berro <jusabejusabe@gmail.com>
+Description:
+ pintascreen-qt4 - qt4 package for pintaScreen
+Changes:
+ pintascreen-qt4 (0.0.77-1) unstable; urgency=low
+ .
+   * compilado en gambas3.12.2
+Checksums-Sha1:
+ 143f9500aa54a20e54c3b4b1b4783c72d1cf669d 575 pintascreen-qt4_0.0.77-1.dsc
+ 14360f6a70e09b66513e38bd24f4b73ab574e57a 2759 pintascreen-qt4_0.0.77-1.tar.gz
+ fc3134aff3e0008823b4f68b756fc50c908a7fe0 3264 pintascreen-qt4_0.0.77-1_all.deb
+ 52783181b6ef7b416985fbf98e39e406e6334d14 4546 pintascreen-qt4_0.0.77-1_amd64.buildinfo
+Checksums-Sha256:
+ 8cf0f42cba7ae85da9219c3240c9a1e658fa6feffefb38db1ba0bf2763d4a88c 575 pintascreen-qt4_0.0.77-1.dsc
+ bcd5d18b835c157a3a93cb3711516eb2783ec7df9a422898569280a741246d2f 2759 pintascreen-qt4_0.0.77-1.tar.gz
+ 24be7550964882033d59cf5f86f1dee2d2f338b3632695f6318d20ec2a5ad848 3264 pintascreen-qt4_0.0.77-1_all.deb
+ 93839d2183055b5f626e13a6f09663702676276b39eb6234015d23f59e82f7a4 4546 pintascreen-qt4_0.0.77-1_amd64.buildinfo
+Files:
+ c9e7e00f8d96a933ed4f33cf85f17d7f 575 contrib/education optional pintascreen-qt4_0.0.77-1.dsc
+ 7a4a9b34f46da0e47f976c958408349d 2759 contrib/education optional pintascreen-qt4_0.0.77-1.tar.gz
+ 75c9607d457d80f19cc544aad4315279 3264 contrib/education optional pintascreen-qt4_0.0.77-1_all.deb
+ eeb0ef70c6eb58f86dd6c6c7eed299f3 4546 contrib/education optional pintascreen-qt4_0.0.77-1_amd64.buildinfo
